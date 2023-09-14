@@ -1,0 +1,34 @@
+
+body { 
+    background-color: ghostwhite; 
+    margin-left: 2.5cm; 
+    margin-right: 2.5cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: 350;
+    text-align:justify;
+}
+p {
+    text-align:justify;
+}
+h1 {
+    font-size: 2.5em; 
+    font-weight:bold
+}
+#link1 {
+    text-decoration:solid; 
+    color:green
+}
+#link2 {
+    text-decoration:solid;
+    font-weight: 550; 
+    color:black}
+#sub1 {
+    text-decoration: underline;
+}
+#special1{
+    text-decoration:solid;
+    text-decoration: underline;
+    font-weight: 550; 
+    color:black
+
+}
